@@ -3,3 +3,4 @@ jenkinsfile
 main.tf
 .terraform
 .terraform.lock.hcl
+terraform.tfstate
